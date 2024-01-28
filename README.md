@@ -1,4 +1,6 @@
-# instgram clone with react **Just Started**
+$ this project is in progress
+
+# instgram clone with react 
 
 
 # React + TypeScript + Vite
