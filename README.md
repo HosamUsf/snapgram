@@ -1,5 +1,5 @@
 
-# instgram clone with react  **this project is in progress**
+# instgram clone with react  " **this project is in progress** "
 
 # Snapgram social media app
 
