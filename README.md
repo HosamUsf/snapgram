@@ -17,9 +17,9 @@ A modern social app with a stunning UI with a native mobile feel, a special tech
 
 ## Screenshots
 
-](https://raw.githubusercontent.com/hp0098v1/snapgram/main/screenshots/signin.png)![picture alt](/screenshots/explore.png "explore")
+![signin](https://github.com/HosamUsf/snapgram/assets/57178026/c69778b7-55bd-4fbc-beb8-d649d8a72094)
+![explore](https://github.com/HosamUsf/snapgram/assets/57178026/5efac14c-09fb-461d-b168-d20c840f7ee7)
 
-https://raw.githubusercontent.com/hp0098v1/snapgram/main/screenshots/explore.png
 
 ## Technologies
 
