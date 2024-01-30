@@ -1,13 +1,8 @@
-$ this project is in progress
+# this project is in progress
 
 # instgram clone with react 
-# Title
 
-Snapgram social media app
-
-## Demo:
-
-Access my site at [snapgram-hp0098v1.vercel.app](http://snapgram-hp0098v1.vercel.app)
+# Snapgram social media app
 
 ## Table Of Contents:
 
@@ -16,20 +11,21 @@ Access my site at [snapgram-hp0098v1.vercel.app](http://snapgram-hp0098v1.vercel
 - [Technologies](#technologies)
 - [Setup](#setup)
 
-## Aboout The App:
+## About The App:
 
 A modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.
 
 ## Screenshots
 
-![picture alt](/screenshots/signin.png "sign in")
-![picture alt](/screenshots/explore.png "explore")
+](https://raw.githubusercontent.com/hp0098v1/snapgram/main/screenshots/signin.png)![picture alt](/screenshots/explore.png "explore")
+
+https://raw.githubusercontent.com/hp0098v1/snapgram/main/screenshots/explore.png
 
 ## Technologies
 
 Main lib's: `React js`, `Typescript`, `Zustand`, `React Query`, `React Hook Form`, `Zod`
 
-Backend: `appwrite`
+Backend: `spring-boot`
 
 Styling lib's: `Shadcn`, `Tailwindcss`
 
@@ -37,7 +33,6 @@ Styling lib's: `Shadcn`, `Tailwindcss`
 
 - Download or clone repository
 - run `npm install`
-- add env.local variables (Get vars from appwrite)
 
 ```js
 VITE_APPWRITE_PROJECT_ID=...
